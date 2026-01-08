@@ -23,9 +23,11 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 ### 📫 Get In Touch
 
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/tyehoshizaki)
-- 🐦 Follow me on [Twitter](https://twitter.com/tyehoshizaki)
-- 📧 Email: tye.hoshizaki@example.com
+Feel free to reach out if you'd like to collaborate on a project or just want to connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/tyehoshizaki)
+- 🐦 [Twitter](https://twitter.com/tyehoshizaki)
+- 📧 Drop me an email
 
 ---
 

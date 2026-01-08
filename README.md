@@ -22,7 +22,7 @@ I'm a passionate developer who loves building innovative solutions and exploring
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
 
 - 💼 [LinkedIn](https://linkedin.com/in/tyehoshizaki)
-- 📧 Drop me an email @ [tyehoshizaki@gmail.com](tyehoshizaki@gmail.com)
+- 📧 Drop me an email @ [tyehoshizaki@gmail.com](emailto:tyehoshizaki@gmail.com)
 
 ---
 

@@ -21,6 +21,14 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 ![Tye's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyehoshizaki&show_icons=true&theme=radical)
 
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tyehoshizaki&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+### 📈 Contribution Graph
+
+[![Tye's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tyehoshizaki&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 📫 Get In Touch
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
